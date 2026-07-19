@@ -7,9 +7,6 @@ This is a landing page I built to practice my front-end web development skills. 
 - HTML
 - CSS
 
-## How to View
-You can view the project by opening the `aboutme layout.html` file in your browser.
-
 ## Screenshot
 ![My Landing Page](landingpage.png)
 
