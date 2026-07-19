@@ -10,8 +10,10 @@ This is a landing page I built to practice my front-end web development skills. 
 ## How to View
 You can view the project by opening the `aboutme layout.html` file in your browser.
 
-## Live Demo
+## Screenshot
+![My Landing Page](landingpage.png)
 
+## Live Demo
 https://borolakshi783-coder.github.io/my-personal-landing-page/
 
 ## Author
